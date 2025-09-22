@@ -23,6 +23,7 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti expedita eos omnis dolores quas molestias placeat a, commodi corporis iure repudiandae ullam nam sequi distinctio rem quae tenetur architecto non.
         </p>
       </div>
       <p className="read-the-docs">
